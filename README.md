@@ -6,3 +6,4 @@ If you have a small fight with your cousins or frinds , you can use it resolve y
 
 Try rolling it again and again by refreshing the page 😊😉
 
+### Play here : https://yashgupta26.github.io/Dice-Game/dicee.html
